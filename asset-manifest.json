@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myWebsite/static/css/main.05cd0ab5.css",
-    "main.js": "/myWebsite/static/js/main.d2c08eed.js",
+    "main.css": "/myWebsite/static/css/main.0f4e003c.css",
+    "main.js": "/myWebsite/static/js/main.c51a0f4c.js",
     "static/media/me.png": "/myWebsite/static/media/me.35315dc1e304acf33a05.png",
     "static/media/cryptoWebsiteImg.png": "/myWebsite/static/media/cryptoWebsiteImg.1bba4a049efc5c818108.png",
     "static/media/whitedots.png": "/myWebsite/static/media/whitedots.44a64c11a36326376c53.png",
@@ -13,11 +13,11 @@
     "static/media/terminal.svg": "/myWebsite/static/media/terminal.d0ff78b81a39922029517d145092dac1.svg",
     "static/media/code.svg": "/myWebsite/static/media/code.02bcf69f1bee06401b9ed8b475441574.svg",
     "static/media/architect.svg": "/myWebsite/static/media/architect.75367e019257c2184475.svg",
-    "main.05cd0ab5.css.map": "/myWebsite/static/css/main.05cd0ab5.css.map",
-    "main.d2c08eed.js.map": "/myWebsite/static/js/main.d2c08eed.js.map"
+    "main.0f4e003c.css.map": "/myWebsite/static/css/main.0f4e003c.css.map",
+    "main.c51a0f4c.js.map": "/myWebsite/static/js/main.c51a0f4c.js.map"
   },
   "entrypoints": [
-    "static/css/main.05cd0ab5.css",
-    "static/js/main.d2c08eed.js"
+    "static/css/main.0f4e003c.css",
+    "static/js/main.c51a0f4c.js"
   ]
 }
